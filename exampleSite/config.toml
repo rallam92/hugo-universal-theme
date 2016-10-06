@@ -1,5 +1,5 @@
-baseurl = "http://replace-this-with-your-hugo-site.com"
-title = "Universal"
+baseurl = "http://localhost:1313/"
+title = "Radiology"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -27,7 +27,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "roshini.reddy1992@email.com"
 
     about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
